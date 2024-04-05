@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078909044505",
+    "project_id": "flutteruberclone-dc080",
+    "storage_bucket": "flutteruberclone-dc080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078909044505:android:a3d3716df2f7a471fde788",
+        "android_client_info": {
+          "package_name": "com.example.test_project_uber_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEYD-LgebB8XhEfpWUn77ysBTlCHHjV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078909044505:android:3bc00164e0074fe6fde788",
+        "android_client_info": {
+          "package_name": "com.mikaznavodya.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQEYD-LgebB8XhEfpWUn77ysBTlCHHjV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
